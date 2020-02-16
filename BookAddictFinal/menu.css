@@ -1,0 +1,28 @@
+html{
+    background-image :
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.2)),
+    url(images/accueilbook.jpg);
+    /* img background */
+}
+#nav{
+    font-size :30px;
+}
+/* Modification couleur link barre de nav */
+a:link {
+  color: white;
+}
+
+
+a:visited {
+  color: white;
+}
+
+
+a:hover {
+  color: grey;
+}
+
+
+a:active {
+  color: darkgrey;
+}
